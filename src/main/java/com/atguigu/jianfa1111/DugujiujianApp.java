@@ -6,5 +6,7 @@ public class DugujiujianApp {
         System.out.println("dugujiujian1111111111111111111111");
         System.out.println("dugujiujian1111111111111111111111");
         System.out.println("dugujiujian1111111111111111111111");
+        System.out.println("dugujiujian1111111111111111111111");
+        System.out.println("dugujiujian22222222222222222222222");
     }
 }
