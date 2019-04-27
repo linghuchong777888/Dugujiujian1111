@@ -11,8 +11,18 @@ public class DugujiujianApp {
         System.out.println("dugujiujian55555555555555555555555");
         System.out.println("dugujiujian55555555555555555555555");
         System.out.println("dugujiujian55555555555555555555555");
+        System.out.println("dugujiujian4444444444444");
         System.out.println("dugujiujian55555555555555555555555");
         System.out.println("dugujiujian55555555555555555555555");
-        System.out.println("dugujiujian55555555555555555555555");
+        System.out.println("dugujiujian22222222222222222222222");
+        System.out.println("dugujiujian22222222222222222222222");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+        System.out.println("dugujiujian333333333333333333333");
+
     }
 }
